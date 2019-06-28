@@ -7,9 +7,9 @@ Tarefa para avaliação técnica de candidatos ao time de desenvolvimento
 
 ### Iniciando a App
 
-- Faça o clone do projeto: ```git clone ```
+- Faça o clone do projeto: ```git clone https://github.com/otallyto/ParrotWebSocket.git```
 - Acesse a pasta da App: ```cd ParrotWebSocket```
-- Rode o yarn para instalar as dependências: ```npm install```
+- Rode o npm para instalar as dependências: ```npm install```
 - Inicie a App: ```node server.js```
 - Acesse o endereço ```http://localhost:3001```
 
@@ -25,4 +25,4 @@ Tarefa para avaliação técnica de candidatos ao time de desenvolvimento
 
 ## Images
 
-![list](img/demo.png)
+![demo](img/demo.PNG)
